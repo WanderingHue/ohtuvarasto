@@ -1,7 +1,7 @@
 import unittest
 from varasto import Varasto
 
-
+# Testit
 class TestVarasto(unittest.TestCase):
     # Luodaan varastot testejä varten.
     def setUp(self):
