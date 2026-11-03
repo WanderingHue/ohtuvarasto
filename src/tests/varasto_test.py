@@ -17,7 +17,7 @@ class TestVarasto(unittest.TestCase):
         # https://docs.python.org/3/library unittest.html#unittest.TestCase.assertAlmostEqual
         self.assertAlmostEqual(self.liiantaysi.saldo, 10)
         self.assertAlmostEqual(self.liiantaysi.tilavuus, 10)
-        self.assertAlmostEqual(self.liiantaysi.paljonko_mahtuu(), 0)
+        self.assertAlmostEqual(self.liiantaysi.paljonko_mahtuu(), 1)
 
 
     def test_luodaan_taysi_varasto(self):
