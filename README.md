@@ -1,2 +1,2 @@
 # ohtuvarasto
-![testit](https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg)
+![testit](https://github.com/WanderingHue/ohtuvarasto/actions/workflows/main.yml/badge.svg)
